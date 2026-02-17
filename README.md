@@ -10,7 +10,7 @@ I am a motivated Computer Science and Data Science undergraduate (B.Tech 2026) w
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tarun25-dev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tarun25-dev&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun25-dev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![name](profile.png)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun25-dev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tarun25-dev&icon=10&color=0)](https://visitcount.itsvg.in)
