@@ -10,7 +10,6 @@ I am a motivated Computer Science and Data Science undergraduate (B.Tech 2026) w
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarun25-dev&theme=blue_navy&show_icons=true&hide_border=false" height="170"/>
   <img src="https://streak-stats.demolab.com?user=Tarun25-dev&theme=blue_navy&hide_border=false" height="170"/>
 </p>
 
