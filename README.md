@@ -11,3 +11,5 @@ I am a motivated Computer Science and Data Science undergraduate (B.Tech 2026) w
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tarun25-dev&theme=blue_navy&hide_border=false" height="170"/>
 </p>
+
+<video autoplay loop muted playsinline width="600"><source src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Big_Buck_Bunny_4K.webm" type="video/webm"></video>
