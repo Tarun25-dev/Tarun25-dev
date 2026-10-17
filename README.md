@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am a motivated Computer Science and Data Science undergraduate (B.Tech 2026) with a strong interest in Python, data analysis, machine learning, and web development. I enjoy building practical projects and continuously improving my technical skills. I am seeking an entry-level opportunity where I can contribute, learn, and grow as a software professional.
 
+![Open to work](https://img.shields.io/badge/Open%20to%20work-Entry--level%20roles-2ea44f?style=for-the-badge&labelColor=0e1726)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tarun25-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TarunKumar_Cs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarunani123@gmail.com) 
 
