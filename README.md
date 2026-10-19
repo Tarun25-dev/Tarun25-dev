@@ -15,7 +15,7 @@ I am a motivated Computer Science and Data Science undergraduate (B.Tech 2026) w
 </p>
 
 <p align="center">
-  <span>
-  [![My GitHub Portfolio](https://img.shields.io/badge/My%20GitHub%20Portfolio-Open%20page-3572a5?style=for-the-badge&logo=github&logoColor=white&labelColor=0e1726)](https://tarun25-dev.github.io/Tarun25-dev/)
-  </span>
+  <img src="
+  https://img.shields.io/badge/My%20GitHub%20Portfolio-Open%20page-3572a5?style=for-the-badge&logo=github&logoColor=white&labelColor=0e1726"
+  />
 </p>
