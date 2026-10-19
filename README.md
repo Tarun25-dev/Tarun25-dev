@@ -14,4 +14,8 @@ I am a motivated Computer Science and Data Science undergraduate (B.Tech 2026) w
   <img src="https://streak-stats.demolab.com?user=Tarun25-dev&theme=blue_navy&hide_border=false" height="170"/>
 </p>
 
-<p align="center">[![My GitHub Portfolio](https://img.shields.io/badge/My%20GitHub%20Portfolio-Open%20page-3572a5?style=for-the-badge&logo=github&logoColor=white&labelColor=0e1726)](https://tarun25-dev.github.io/Tarun25-dev/)</p>
+<p align="center">
+  <span>
+  [![My GitHub Portfolio](https://img.shields.io/badge/My%20GitHub%20Portfolio-Open%20page-3572a5?style=for-the-badge&logo=github&logoColor=white&labelColor=0e1726)](https://tarun25-dev.github.io/Tarun25-dev/)
+  </span>
+</p>
